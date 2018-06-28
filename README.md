@@ -1,2 +1,3 @@
 # torske-knowledge
-knowledge collection starting in 2018, June.
+Knowledge collection starting in 2018, June.
+Wiki found [here](https://github.com/CassandraGoose/torske-knowledge/wiki)
